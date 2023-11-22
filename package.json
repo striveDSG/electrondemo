@@ -13,12 +13,13 @@
   "main": "background.js",
   "dependencies": {
     "core-js": "^3.8.3",
-    "element-plus": "^2.4.2",
+    "normalize.css": "^8.0.1",
     "ts-loader": "~8.2.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
+    "@arco-design/web-vue": "^2.53.2",
     "@types/electron-devtools-installer": "^2.2.0",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
