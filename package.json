@@ -21,6 +21,7 @@
   "devDependencies": {
     "@arco-design/web-vue": "^2.53.2",
     "@types/electron-devtools-installer": "^2.2.0",
+    "@types/webpack-env": "^1.18.4",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-typescript": "~5.0.0",
